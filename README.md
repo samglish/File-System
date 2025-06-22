@@ -18,3 +18,8 @@ Contient les fichiers nécessaires au démarrage de Linux.
 - Exemples : `vmlinuz` (noyau), `system.map`
 
 ---
+## `/dev` – Périphériques
+Contient les fichiers représentant les périphériques du système.
+- Exemples : `hd*` (disques durs), `tty*` (terminaux), `sd*` (USB/disques), `fd*` (disquettes), `cdrom`
+
+---
