@@ -1,6 +1,6 @@
 # 🗂️ Structure du système de fichiers Linux (FS)
 - >  <a href="Readme-english.md">English version</a>
-<img src="fig.png" width="70%">
+<img src="fig.png" width="50%">
 
 ---
 
