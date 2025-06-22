@@ -41,3 +41,7 @@ Utilisé pour monter temporairement des systèmes de fichiers externes.
 - Exemples : `/mnt/cdrom`, `/mnt/floppy`
 
 ---
+## `/root` – Home de root
+Répertoire personnel du superutilisateur `root`.
+
+---
