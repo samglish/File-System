@@ -8,3 +8,8 @@
 Point de départ de toute l’arborescence. Tous les dossiers dépendent de lui.
 
 ---
+## `/bin` – Commandes de base
+Contient les commandes essentielles accessibles à tous les utilisateurs.
+- Exemples : `ls`, `chmod`, `sort`, `date`, `cp`, `dd`
+
+---
