@@ -62,3 +62,19 @@ Fichiers susceptibles de changer régulièrement.
 - `/var/log` : fichiers journaux du système
 
 ---
+
+> ### Résumé rapide
+
+| Dossier     | Rôle principal                                |
+|-------------|-----------------------------------------------|
+| `/`         | Racine du système                             |
+| `/bin`      | Commandes de base                             |
+| `/boot`     | Fichiers de démarrage                         |
+| `/dev`      | Périphériques                                 |
+| `/etc`      | Fichiers de configuration                     |
+| `/home`     | Répertoires utilisateurs                      |
+| `/mnt`      | Points de montage externes temporaires        |
+| `/root`     | Dossier personnel de l’administrateur `root`  |
+| `/sbin`     | Commandes système (admin)                     |
+| `/usr`      | Programmes et bibliothèques utilisateurs      |
+| `/var`      | Données variables (logs, etc.)                |
