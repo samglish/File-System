@@ -50,3 +50,10 @@ Commandes réservées à l'administration système (souvent utilisables uniqueme
 - Exemples : `shutdown`, `fdisk`, `cfdisk`, `insmod`
 
 ---
+## `/usr` – Programmes utilisateur
+Contient les programmes, bibliothèques et manuels.
+- `/usr/local` : installations locales
+- `/usr/lib` : bibliothèques
+- `/usr/man` : pages de manuels
+
+---
