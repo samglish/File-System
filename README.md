@@ -57,3 +57,8 @@ Contient les programmes, bibliothèques et manuels.
 - `/usr/man` : pages de manuels
 
 ---
+## `/var` – Fichiers variables
+Fichiers susceptibles de changer régulièrement.
+- `/var/log` : fichiers journaux du système
+
+---
