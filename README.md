@@ -1,3 +1,3 @@
-# File-System
-File System  d’un système de type Unix/Linux
+# 🗂️ Structure du système de fichiers Linux (FS)
+
 <img src="fig.png" width="70%">
