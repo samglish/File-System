@@ -1,7 +1,7 @@
 # 🗂️ Linux File System Structure (FS)
 
 The Linux file system is organized hierarchically, with `/` as the root directory.
-<img src="fig.png" width="70%">
+<img src="fig.png" width="50%">
 
 ---
 
