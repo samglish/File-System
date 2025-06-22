@@ -45,3 +45,8 @@ Utilisé pour monter temporairement des systèmes de fichiers externes.
 Répertoire personnel du superutilisateur `root`.
 
 ---
+## `/sbin` – Commandes système
+Commandes réservées à l'administration système (souvent utilisables uniquement par `root`).
+- Exemples : `shutdown`, `fdisk`, `cfdisk`, `insmod`
+
+---
