@@ -36,3 +36,8 @@ Dossiers personnels des utilisateurs normaux.
 - Fichiers personnels : `.bashrc`, `.bash_profile`, etc.
 
 ---
+## `/mnt` – Points de montage temporaires
+Utilisé pour monter temporairement des systèmes de fichiers externes.
+- Exemples : `/mnt/cdrom`, `/mnt/floppy`
+
+---
