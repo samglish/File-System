@@ -30,3 +30,9 @@ Contient les fichiers de configuration du système.
 - Dossier spécial : `X11` pour la configuration graphique
 
 ---
+## `/home` – Répertoires utilisateurs
+Dossiers personnels des utilisateurs normaux.
+- `default user`, `other users`
+- Fichiers personnels : `.bashrc`, `.bash_profile`, etc.
+
+---
