@@ -13,3 +13,8 @@ Contient les commandes essentielles accessibles à tous les utilisateurs.
 - Exemples : `ls`, `chmod`, `sort`, `date`, `cp`, `dd`
 
 ---
+## `/boot` – Démarrage du système
+Contient les fichiers nécessaires au démarrage de Linux.
+- Exemples : `vmlinuz` (noyau), `system.map`
+
+---
